@@ -4,7 +4,7 @@
 - 📫 Você pode encontrar mais informações sobre mim em meu site: https://sites.google.com/view/marcoslima/início
 - 🎥 Visite também o meu canal no YouTube: https://www.youtube.com/@KilyTheDog
 
-**ENG**
+**EN**
 - 👋 Hi there! I’m Marcos Lima. I'm a psychologist (2012–2017), I hold a Bachelor’s degree in psychology (2012–2017), a Master’s degree in Behavioral Science (2017–2019), and a doctorate in Behavioral Science (2019–2023; research area's concentration: cognition and behavioral neurosciences) at the University of Brasília (UnB), Brazil.
 - 👀 Although my research area is mainly focused on cognitive psychology, my interests also include Python, R, PsychoPy, statistics, and psychometrics. 
 - 📫 You can find more information about me on my website (only in Brazilian Portuguese): https://sites.google.com/view/marcoslima/início
