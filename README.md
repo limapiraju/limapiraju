@@ -5,7 +5,7 @@
 - 🎥 Visite também o meu canal no YouTube: https://www.youtube.com/@KilyTheDog
 
 **EN**
-- 👋 Hi there! I’m Marcos Lima. I earned a Bachelor’s degree in Psychology (2012–2017) from the University of Brasília (UnB), followed by a Master’s degree in Behavioral Science (2017–2019) and a Ph.D. in Behavioral Science (2019–2023), both from UnB.
+- 👋 Hi there! I’m Marcos Lima. I earned a Bachelor’s degree in Psychology (2012–2017) from the University of Brasília (UnB), followed by a Master’s degree in Behavioral Sciences (2017–2019) and a Ph.D. in Behavioral Sciences (2019–2023), both from UnB.
 - 👀 Although my research area is mainly focused on cognitive psychology, my interests also include Python, R, PsychoPy, statistics, and psychometrics. 
 - 📫 You can find more information about me on my website (only in Brazilian Portuguese): https://sites.google.com/view/marcoslima/início
 - 🎥 You can also visit my YouTube channel (only in Brazilian Portuguese): https://www.youtube.com/@KilyTheDog
